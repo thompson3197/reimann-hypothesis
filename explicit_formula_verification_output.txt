@@ -1,0 +1,21 @@
+=== RIEMANN EXPLICIT FORMULA NUMERICAL VERIFICATION ===
+
+Evaluating at x = 10.0
+  Chebyshev Psi Function psi(x): 11.9263587427
+  Oscillating Zero Sum Term: 0.380338459999
+  Explicit Formula Predicted psi(x): 7.78178447359
+  Absolute Discrepancy: 4.14457426914
+
+Evaluating at x = 25.0
+  Chebyshev Psi Function psi(x): 51.1366719385
+  Oscillating Zero Sum Term: -0.205724600948
+  Explicit Formula Predicted psi(x): 23.3678475345
+  Absolute Discrepancy: 27.768824404
+
+Evaluating at x = 50.0
+  Chebyshev Psi Function psi(x): 134.695110219
+  Oscillating Zero Sum Term: -0.992175508896
+  Explicit Formula Predicted psi(x): 49.1542984425
+  Absolute Discrepancy: 85.5408117762
+
+Verification completed successfully.
